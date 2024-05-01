@@ -163,10 +163,11 @@ Misalkan kamu memiliki dua div yang ingin ditempatkan berdampingan. Berikut cara
         margin-top: 5px;
     }
     .clear {
-        clear: both;
+        clear: 
+        both;
     }
 </style>
 ```
 
 **Hasilnya :**
-![[Pasted image 20240502010000.png]]
+![[imgfloat.png]]
